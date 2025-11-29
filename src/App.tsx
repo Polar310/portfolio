@@ -68,7 +68,7 @@ const experiences = [
     id: 4,
     period: 'Nov 22 – Jan 23',
     company: '11point2',
-    logo: 'public/logos/11point2_logo.png',
+    logo: 'dist/logos/11point2_logo.png',
     companyUrl: 'https://11point2.io/',
     location: 'Adelaide, Australia',
     role: 'Engineering Intern',
@@ -288,7 +288,7 @@ const App: React.FC = () => {
                 LinkedIn
               </a>
               <a
-                href="dist/logos/Agastya_Mudgal_CV_Nov25.pdf"
+                href="public/logos/Agastya_Mudgal_CV_Dec25.pdf"
                 className="inline-flex items-center gap-2 rounded-full border border-slate-200/80 bg-white/80 px-4 py-2 text-xs font-medium text-slate-700 shadow-sm hover:-translate-y-[2px] hover:text-refresh-500 transition-transform duration-150"
                 data-reveal
               >
