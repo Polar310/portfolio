@@ -266,7 +266,7 @@ const App: React.FC = () => {
             <p className="text-s text-slate-700 leading-relaxed">
               I blend product insight, analytical thinking, and cross industry experience to create durable solutions; from optimisation and AI workflows to financial insight tools and user facing products. Interest in the space where tech, finance, and strategy converge. 
             </p>
-
+{/* 
             <div className="flex flex-wrap items-center gap-3">
               <button
                 type="button"
@@ -295,7 +295,7 @@ const App: React.FC = () => {
                 <ExternalLink className="h-4 w-4" />
                 View full CV
               </a>
-            </div>
+            </div> */}
 
             <div className="grid gap-3 md:grid-cols-2">
               <div
@@ -332,7 +332,7 @@ const App: React.FC = () => {
                       LinkedIn
                     </a>
                     <a
-                      href="/Agastya_Mudgal_CV_Nov25.pdf"
+                      href="public/logos/Agastya_Mudgal_CV_Dec25.pdf"
                       className="inline-flex items-center gap-2 rounded-full border border-refresh-200 bg-white px-4 py-2 hover:border-refresh-400 hover:bg-refresh-50 shadow-sm transition"
                     >
                       <ExternalLink className="h-4 w-4 text-refresh-500" />
